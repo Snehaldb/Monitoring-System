@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="util.QueryRecordUtilTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-06-28T07:42:43" hostname="Snehals-MacBook-Pro.local" time="0.644">
+  <properties/>
+  <testcase name="createQueryDataModelForRecord_should_return_query_data_model_for_valid_record" classname="util.QueryRecordUtilTest" time="0.639"/>
+  <testcase name="createQueryDataModelForRecord_should_return_null_model_for_empty_record" classname="util.QueryRecordUtilTest" time="0.001"/>
+  <testcase name="getTokensForRecord_should_generate_comma_separated_tokens_for_record" classname="util.QueryRecordUtilTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
